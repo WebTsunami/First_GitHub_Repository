@@ -1,3 +1,3 @@
 # Some Text
 
-A little Description
+A little Description on the first GitHub repository
